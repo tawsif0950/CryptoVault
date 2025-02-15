@@ -43,7 +43,7 @@ CryptoVault is a powerful and user-friendly Python-based tool designed to secure
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CryptoVault.git
+   git clone https://github.com/tawsif0950/CryptoVault.git
    cd CryptoVault
    ```
 
